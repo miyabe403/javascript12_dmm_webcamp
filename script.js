@@ -1,21 +1,3 @@
-//  $(function() {  
-//   $('.menu-trigger').on('click', function(event) {
-//     $(this).toggleClass('active');
-//     $('#sp-menu').fadeToggle();
-//     event.preventDefault();
-//   });
-// });
-
-// $('#tab-contents .tab[id != "tab1"]').hide();             
-
-// $('#tab-menu a').on('click', function(event) {
-//   $("#tab-contents .tab").hide();
-//   $("#tab-menu .active").removeClass("active");
-//   $(this).addClass("active");
-//   $($(this).attr("href")).show();
-//   event.preventDefault();
-// });
-
 // （API_KEY には、"取得したAPIキー" を記述） 
 const API_KEY = "9651237588a4f04285cfe795a57d26a5";
 $(function(){
